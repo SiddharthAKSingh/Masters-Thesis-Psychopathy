@@ -2,16 +2,12 @@
 A repository of code and data for a masters thesis on detecting PCL-R scores from spontaneous speech, interpretably. 
 
 'regression_experiments.ipynb'
-
 -fitting regression models to discover patterns in the data
 
-
-
-
-
+'classification_experiments.ipynb'
+-logreg experiments to investigate word usage
 
 'dataset'
-
 -.txt files: the text data
 -process_transcripts.ipynb: notebook to process the transcripts and convert them into a dataframe
 -enriched_dataframe: transcripts converted into dataframe with linguistic enrichment
