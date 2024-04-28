@@ -1,7 +1,7 @@
 # Masters-Thesis-Psychopathy
 A repository of code and data for a masters thesis in computational stylometry on function word among psychopaths and its relation to psychometrics. 
 
-'data_and_analyses(4).ipynb'
+'copy of data_and_analyses.ipynb'
 -process texts
 -main data processing and analyses for stylometric investigation
 
