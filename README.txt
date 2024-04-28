@@ -1,5 +1,5 @@
 # Masters-Thesis-Psychopathy
-A repository of code and data for a masters thesis on detecting PCL-R scores from spontaneous speech, interpretably. 
+A repository of code and data for a masters thesis in computational stylometry on function word among psychopaths. 
 
 'regression_experiments.ipynb'
 -fitting regression models to discover patterns in the data
