@@ -3,11 +3,10 @@ A repository of code and data for a masters thesis in computational stylometry o
 
 'copy of data_and_analyses.ipynb'
 -process texts
--main data processing and analyses for stylometric investigation
+-main data processing and analyses for stylometric investigation: train and test data 
 
 'dataset'
 -zip folders for with .txt files:
-controls 
 corporate
 political
 felon psychopaths 
